@@ -1,2 +1,2 @@
 # Wildbeast
-<img alt="site" src="/img/site.png" />
+<img alt="site" src="./img/site.PNG" />
