@@ -1,2 +1,2 @@
 # Wildbeast
-<img alt="logowhiledgp" src="logo.png" />
+<img alt="site" src="/img/site.png" />
